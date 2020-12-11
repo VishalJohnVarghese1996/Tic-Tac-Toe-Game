@@ -21,7 +21,7 @@ to move randomly.
 import javax.swing.*;
 import java.awt.*;
 
-public class TicTacToe extends JFrame {
+public class    TicTacToe extends JFrame {
 
     private Board board;
 
