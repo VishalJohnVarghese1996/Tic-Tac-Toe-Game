@@ -7,9 +7,10 @@ public class Player {
     private String name;
     private Color color;
 
-    public Player(Color color){
+    public Player(Color color) {
         this.color = color;
     }
+
     public Color getColor() {
         return color;
     }
