@@ -45,7 +45,9 @@ public class Board extends JPanel implements MouseListener {
         String name;
         do {
             name = JOptionPane.showInputDialog("Enter your name", "");
-            if (name.equals("")) {
+            if (name == null) {
+                System.exit(0);
+            } else if (name.equals("")) {
                 JOptionPane.showMessageDialog(null, "Please enter a name");
             } else {
                 flag = 1;
