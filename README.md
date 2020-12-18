@@ -7,3 +7,9 @@ A two player tic tac toe game where player 1 is the user and player 2 is compute
 1. Run the Main function in TicTacToe.java file.
 2. Input the player name
 3. Start the game
+
+## Use Case Diagram 
+Use case diagram can be found in 'Tic-Tac-Toe_Use_Case_Diagram.png' file.
+
+## Use Cases
+Use cases are created which can be found in 'Tic-Tac-Toe_Use_Cases.docx' file.
